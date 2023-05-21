@@ -71,5 +71,7 @@ public class Main {
         var totalEmployee = totaWorkingHours / oneEmployee;
         System.out.println("Всего работников в компании – " + totalEmployee + " человек.");
         System.out.println("Если в компании работает " + (totalEmployee + 94) + " человека, то всего " + (totalEmployee + 94) * oneEmployee + " часа работы может быть поделено между сотрудниками.");
+
+        System.out.println("Проверка что будет после происоединения ветки в гит хабе");
     }
 }
